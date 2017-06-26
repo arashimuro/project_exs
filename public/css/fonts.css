@@ -1,0 +1,56 @@
+.ft-link a{
+     color: #666666 !important;
+     text-decoration: none !important;
+ }
+
+.ft-link a:link{
+    color: #666666 !important;
+    text-decoration: none !important;
+}
+
+.ft-link a:hover{
+    color: #FF8100 !important;
+    text-decoration: underline !important;
+}
+
+.ft-link a:active{
+    color: #666666 !important;
+}
+
+.ft-link a:visited{
+    color: #666666 !important;
+}
+
+.ft-size-smaller{
+    font-size: 11px !important;
+}
+
+.ft-size-small{
+    font-size: 13px !important;
+}
+
+.ft-size-medium{
+    font-size: 15px !important;
+}
+
+.ft-size-large{
+    font-size: 18px !important;
+}
+
+.ft-bold{
+    font-weight: bold !important;
+}
+
+.ft-light-grey{
+    color: #999999 !important;
+}
+
+.ft-grey{
+    color: #666666 !important;
+}
+
+
+
+.ft-supermarket{
+    font-family: supermarketregular;
+}

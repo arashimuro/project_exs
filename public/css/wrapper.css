@@ -1,0 +1,24 @@
+.top-site{
+    width: 100%;
+    height: 3px;
+    background-color: #FF8100;
+    position: static;
+}
+
+.sub-top-site{
+    width: 100%;
+    height: 20px;
+    position: static;
+    margin-top: 3px;
+}
+
+.wrapper-banner{
+    width: 100%;
+    height: 300px;
+    background-color: #FF8100;
+}
+
+.intent-floated{
+    width: auto;
+    float: left;
+}
